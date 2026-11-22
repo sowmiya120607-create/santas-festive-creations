@@ -222,7 +222,7 @@ The project improved my understanding of digital design and encouraged me to exp
 
 ### Holiday Greeting Card
 
-![Christmas Holiday Card](Holiday-Card/Christmas_Holiday_Card.png)
+![Christmas Holiday Card](Holiday%20Card/Christmas_Holiday_Card.png)
 
 ## 11. Original Design Assets
 
