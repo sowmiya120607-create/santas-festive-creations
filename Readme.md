@@ -218,7 +218,7 @@ The project improved my understanding of digital design and encouraged me to exp
 
 ### Christmas Sweater
 
-![Santa-Inspired Christmas Sweater](Sweater/Christmas_Sweater.png)
+![Santa-Inspired Christmas Sweater](Sweater-Design/Christmas_Sweater.png)
 
 ### Holiday Greeting Card
 
